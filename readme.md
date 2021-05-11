@@ -1,4 +1,4 @@
-# Bull.DO Backlog/Suggestions
+# Bill.DO Backlog/Suggestions
 
 ![Bill.DO Dashboard](https://bill.do/marketing/dashboard.png)
 
